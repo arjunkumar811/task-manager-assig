@@ -3,55 +3,55 @@ import { ArrowDownIcon, ArrowUpIcon } from "@radix-ui/react-icons";
 export const categories = [
   {
     value: "income",
-    label: "Income"
+    label: "Income",
   },
   {
     value: "food",
-    label: "Food"
+    label: "Food",
   },
   {
     value: "utilities",
-    label: "Utilities"
+    label: "Utilities",
   },
   {
     value: "housing",
-    label: "Housing"
+    label: "Housing",
   },
   {
     value: "health",
-    label: "Health"
+    label: "Health",
   },
   {
     value: "transport",
-    label: "Transport"
+    label: "Transport",
   },
   {
     value: "work",
-    label: "Work"
+    label: "Work",
   },
   {
     value: "entertainment",
-    label: "Entertainment"
+    label: "Entertainment",
   },
   {
     value: "education",
-    label: "Education"
+    label: "Education",
   },
   {
     value: "gifts",
-    label: "Gifts"
-  }
+    label: "Gifts",
+  },
 ];
 
 export const incomeType = [
   {
     label: "Income",
     value: "income",
-    icon: ArrowUpIcon
+    icon: ArrowUpIcon,
   },
   {
     label: "Expense",
     value: "expense",
-    icon: ArrowDownIcon
-  }
+    icon: ArrowDownIcon,
+  },
 ];
